@@ -1,10 +1,7 @@
 The ISS Orbital Tracker Workshop will guide attendees through assembling an automated robotic pointer that tracks the location of the International Space Station in real time. The workshop will be divided into two parts. Part 1 covers the science behind orbital mechanics, and gives background on the project itself. Part 2 is a hands-on section where attendees are provided with the materials to build their own orbital pointer, and are guided through assembly and programming of the device.
-<br><br><br><br><br><br><br><br><br>
+
 Prepared by Salvador Vasquez
-<div style="page-break-after: always"></div>
 
-
-# Lecture
 
 ## Part 1: Orbits
 
@@ -55,10 +52,6 @@ Prepared by Salvador Vasquez
 [SGP4 Academic paper](https://celestrak.org/publications/AIAA/2008-6770/AIAA-2008-6770.pdf)
 [Original source code in C++](https://github.com/gradyh/ISS-Tracking-Pointer/tree/master)
 [NORAD Satellite Data](https://celestrak.org/NORAD/elements/)
-
-![[1_dYa0T_eg6DZa03Hv9OHaCw.webp]]
-
-<div style="page-break-after: always"></div>
 
 
 # Updates
