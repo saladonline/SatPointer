@@ -2,16 +2,6 @@ The ISS Orbital Tracker Workshop will guide attendees through assembling an auto
 
 Prepared by Salvador Vasquez
 
-
-## Part 1: Orbits
-
-- ISS
-- Orbits
-	- Keplerian vs real life
-- SGP4
-
-## Part 2: Pointer
-
 ### Hardware
 - ESP8266
 - Stepper motor
@@ -29,22 +19,23 @@ Prepared by Salvador Vasquez
 	- By hand
 	- Tracking different satellites
 
-<div style="page-break-after: always"></div>
+
 
 
 # Budget
 
 | Item | Description     | Cost   | Link |
 |------|-----------------|--------|------|
-| 1    | ESP8266         | $2.83  | [Link](https://share.temu.com/dwIEmbCtYWA) |
+| 1    | ESP8266         | $2.68  | [Link](https://share.temu.com/dwIEmbCtYWA) |
 | 2    | Stepper         | $0.61  | [Link](https://www.aliexpress.us/item/3256804755489791.html) |
 | 3    | Servo           | $1.22  | [Link](https://www.aliexpress.us/item/3256804364197715.html) |
 | 4    | Stepper Driver  | $0.64  | [Link](https://www.digikey.com/short/zwjfqjd0) |
 | 5    | Slip Ring       | $2.57  | [Link](https://www.aliexpress.us/item/3256802527929967.html) |
 | 6    | Micro USB cable | $0.86  | [Link](https://share.temu.com/fXmrZp8YbyA) |
-| 7    |  5W power brick | $1.49  | [Link](https://share.temu.com/9dzaBk76MuA) |
-| 8    | PCB             | ~$2.00  | [Link](https://www.flux.ai/vsalvador/pointer?editor=schematic) |
-|      | Total           | $12.50 |
+| 7    | 5W power brick  | $1.49  | [Link](https://share.temu.com/9dzaBk76MuA) |
+| 8    | PCB             | $1.12  | [Link](https://github.com/saladonline/SatPointer) |
+| 9    | JST Connector   | $0.05  | [Link](https://www.aliexpress.us/item/3256805938058599.html) |
+|      | Total           | $12.00 |
 
 
 # Resources
